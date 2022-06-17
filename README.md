@@ -11,7 +11,7 @@
 
 ## Description
 
-This application allow you to save write notes with a title and body text. You can then save the note to the side of the screen. If you click on the note on the side then it will appear in the main text field. If you have something written in the main text field but wish to make a new note you can click the plus and it will revert to the default "note title" and "note text". You can delete the note at any time by clicking the trash can icon.
+This application allows you to save writen notes with a title and body text. You can then save the note to the side of the screen. If you click on the note on the side then it will appear in the main text field. If you have something written in the main text field but wish to make a new note you can click the plus and it will revert to the default "note title" and "note text". You can delete the note at any time by clicking the trash can icon.
 
 ## Installation
 
